@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF938004-A713-4588-A562-0AA079DC2804}|belajar_LINQ\\belajar_LINQ.csproj|c:\\users\\mhmdshiddiq\\documents\\berijalan\\consoleapp1\\belajar_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF938004-A713-4588-A562-0AA079DC2804}|belajar_LINQ\\belajar_LINQ.csproj|solutionrelative:belajar_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DD49FA-F332-4A55-A8BC-E5FEC0653A53}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mhmdshiddiq\\documents\\berijalan\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DD49FA-F332-4A55-A8BC-E5FEC0653A53}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2257B9E-A245-45C7-B5D0-8D58EB4053A1}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mhmdshiddiq\\documents\\berijalan\\consoleapp1\\consoleapp2\\mstproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2257B9E-A245-45C7-B5D0-8D58EB4053A1}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\mstproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2257B9E-A245-45C7-B5D0-8D58EB4053A1}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mhmdshiddiq\\documents\\berijalan\\consoleapp1\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2257B9E-A245-45C7-B5D0-8D58EB4053A1}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DD49FA-F332-4A55-A8BC-E5FEC0653A53}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mhmdshiddiq\\documents\\berijalan\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74DD49FA-F332-4A55-A8BC-E5FEC0653A53}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\belajar_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "belajar_LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\belajar_LINQ\\Program.cs",
+              "RelativeToolTip": "belajar_LINQ\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:29:41.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:10:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T04:04:37.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MstProduct.cs",
+              "DocumentMoniker": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\ConsoleApp2\\MstProduct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\MstProduct.cs",
+              "ToolTip": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\ConsoleApp2\\MstProduct.cs",
+              "RelativeToolTip": "ConsoleApp2\\MstProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:06:16.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\mhmdshiddiq\\Documents\\berijalan\\ConsoleApp1\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:05:54.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

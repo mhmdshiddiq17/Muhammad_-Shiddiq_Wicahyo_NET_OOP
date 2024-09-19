@@ -1,0 +1,14 @@
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\bin\Debug\net8.0\belajar_LINQ.exe
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\bin\Debug\net8.0\belajar_LINQ.deps.json
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\bin\Debug\net8.0\belajar_LINQ.runtimeconfig.json
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\bin\Debug\net8.0\belajar_LINQ.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\bin\Debug\net8.0\belajar_LINQ.pdb
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\belajar_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\belajar_LINQ.AssemblyInfoInputs.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\belajar_LINQ.AssemblyInfo.cs
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\belajar_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\belajar_LINQ.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\refint\belajar_LINQ.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\belajar_LINQ.pdb
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\belajar_LINQ.genruntimeconfig.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\ConsoleApp1\belajar_LINQ\obj\Debug\net8.0\ref\belajar_LINQ.dll
