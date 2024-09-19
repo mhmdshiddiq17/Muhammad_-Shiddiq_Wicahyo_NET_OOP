@@ -1,0 +1,14 @@
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\bin\Debug\net8.0\Object & Class.exe
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\bin\Debug\net8.0\Object & Class.deps.json
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\bin\Debug\net8.0\Object & Class.runtimeconfig.json
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\bin\Debug\net8.0\Object & Class.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\bin\Debug\net8.0\Object & Class.pdb
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\Object & Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\Object & Class.AssemblyInfoInputs.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\Object & Class.AssemblyInfo.cs
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\Object & Class.csproj.CoreCompileInputs.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\Object & Class.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\refint\Object & Class.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\Object & Class.pdb
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\Object & Class.genruntimeconfig.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Object & Class\obj\Debug\net8.0\ref\Object & Class.dll

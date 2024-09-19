@@ -1,0 +1,14 @@
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\bin\Debug\net8.0\Tugas.exe
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\bin\Debug\net8.0\Tugas.deps.json
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\bin\Debug\net8.0\Tugas.runtimeconfig.json
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\bin\Debug\net8.0\Tugas.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\bin\Debug\net8.0\Tugas.pdb
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.AssemblyInfoInputs.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.AssemblyInfo.cs
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.csproj.CoreCompileInputs.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\refint\Tugas.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.pdb
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.genruntimeconfig.cache
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\ref\Tugas.dll
