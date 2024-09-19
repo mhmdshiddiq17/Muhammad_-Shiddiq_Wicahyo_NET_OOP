@@ -3,53 +3,6 @@ using System.Collections.Generic;
 
 namespace Tugas
 {
-    // Kelas User yang menyimpan informasi umum pengguna
-    public class User
-    {
-       
-        public string Nama;
-        public string Role;
-        public decimal EMoney;
-
-       
-        public User(string nama, string role, decimal eMoney)
-        {
-            Nama = nama;     
-            Role = role;     
-            EMoney = eMoney; 
-        }
-    }
-
-    
-    public class Admin : User
-    {
-        
-        public Admin(string nama) : base(nama, "Admin", 0) { }
-
-        
-        public void TambahSaldo(Customer customer, decimal jumlah)
-        {
-            // Tambah saldo customer
-            customer.EMoney += jumlah;
-            Console.WriteLine($"Saldo customer {customer.Nama} berhasil ditambah sebesar {jumlah}.");
-            Console.WriteLine($"Saldo saat ini: {customer.EMoney}");
-        }
-    }
-
-    // Kelas Customer sebagai turunan dari User
-    public class Customer : User
-    {
-        
-        public Customer(string nama, decimal eMoney) : base(nama, "Customer", eMoney) { }
-
-        
-        public void LihatSaldo()
-        {
-            
-            Console.WriteLine($"Saldo {Nama}: {EMoney}");
-        }
-    }
-
     // Kelas utama Program
     class Program
     {

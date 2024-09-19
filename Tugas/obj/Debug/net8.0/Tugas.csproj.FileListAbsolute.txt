@@ -12,3 +12,4 @@ C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\r
 C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.pdb
 C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.genruntimeconfig.cache
 C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\ref\Tugas.dll
+C:\Users\mhmdshiddiq\Documents\berijalan\Object & Class\Tugas\obj\Debug\net8.0\Tugas.sourcelink.json
